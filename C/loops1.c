@@ -1,3 +1,4 @@
+// N natural numbers 
 #include <stdio.h>
 int main() {
     int n;
