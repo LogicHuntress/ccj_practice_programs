@@ -44,7 +44,7 @@ public class operators {
                 break;
 
             default:
-                System.out.println("Invalid choice! Please enter 0 to 4.");
+                System.err.println("Invalid choice! Please enter 0 to 4.");
         }
 
         sc.close();
