@@ -1,0 +1,28 @@
+## Day-5: Interview Q&A on Functions
+
+**Q1. What is a function in C?**  
+**A:** A function is a block of code that performs a specific task. It helps in code reusability and modularity.
+
+**Q2. What are the types of functions in C?**  
+**A:** 
+1. Library functions (predefined) → e.g., printf(), scanf(), sqrt().  
+2. User-defined functions → functions created by the programmer.
+
+**Q3. What are the advantages of using functions?**  
+**A:** 
+- Code reusability  
+- Easier debugging and maintenance  
+- Improves readability  
+- Allows modular programming
+
+**Q4. What are the different categories of user-defined functions in C?**  
+**A:**  
+1. Function with no arguments and no return value  
+2. Function with arguments but no return value  
+3. Function with no arguments but with return value  
+4. Function with arguments and return value
+
+**Q5. What is the difference between call by value and call by reference?**  
+**A:**  
+- Call by value: A copy of the actual value is passed. Changes inside the function do not affect the original variable.  
+- Call by reference: The address of the variable is passed. Changes inside the function affect the original variable.
